@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Hotels>
+	<Hotel>
+		<Name>Red Feather Lodge</Name>
+		<Phone>928-638-2414</Phone>
+		<Address>
+			<Number>300</Number>
+			<Street>AZ-64</Street>
+			<City>Grand Canyon Village</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+			<_NearestAirport>Phoenix Sky Harbor</_NearestAirport>
+		</Address>
+		<_Rating>4.2</_Rating>
+	</Hotel>
+</Hotels>
