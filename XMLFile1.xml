@@ -10,8 +10,8 @@
 			<City>Grand Canyon Village</City>
 			<State>AZ</State>
 			<Zip>86023</Zip>
-			<_NearestAirport>Phoenix Sky Harbor</_NearestAirport>
+			<NearstAirport>Phoenix Sky Harbor</NearstAirport>
 		</Address>
-		<_Rating>4.2</_Rating>
+		<Rating>4.2</Rating>
 	</Hotel>
 </Hotels>
