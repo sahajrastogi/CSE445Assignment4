@@ -18,12 +18,12 @@
 										<xs:element name ="Street" type="xs:string"/>
 										<xs:element name ="City" type="xs:string"/>
 										<xs:element name ="State" type="xs:string"/>
-										<xs:element name ="Zip" type="xs:int"/>
+										<xs:element name ="Zip" type="xs:string"/>
 										<xs:element name ="NearstAirport" type="xs:string" minOccurs ="0" maxOccurs ="unbounded"/>
 									</xs:sequence>
 								</xs:complexType>
 							</xs:element>
-							<xs:element name ="Rating" type="xs:decimal" minOccurs ="0" maxOccurs="unbounded"/>
+							<xs:element name ="Rating" type="xs:string" minOccurs ="0" maxOccurs="unbounded"/>
 						</xs:sequence>
 					</xs:complexType>
 				</xs:element>
