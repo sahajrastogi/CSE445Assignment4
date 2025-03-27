@@ -15,7 +15,7 @@
 	<Hotel>
 		<Name>Comfort Inn and Suites Zion Park Area</Name>
 		<Phone>(435) 879-7220</Phone>
-		<Address NearstAirport ="Phoenix Sky Harbor">
+		<Address NearstAirport ="Salt Lake City International">
 			<Number>45</Number>
 			<Street>N 2600 W</Street>
 			<City>Hurricane</City>
@@ -37,7 +37,7 @@
 	<Hotel>
 		<Name>Best Western Plus Flathead Lake Inn and Suites</Name>
 		<Phone>(406) 857-2400</Phone>
-		<Address NearstAirport ="Phoenix Sky Harbor">
+		<Address NearstAirport ="Bozeman Yellowstone">
 			<Number>4824</Number>
 			<Street>US-93</Street>
 			<City>Kalispell</City>
@@ -48,7 +48,7 @@
 	<Hotel Rating ="4.1">
 		<Name>Quality Inn And Suites</Name>
 		<Phone>(330) 659-6151</Phone>
-		<Address NearstAirport ="Phoenix Sky Harbor">
+		<Address NearstAirport ="Cleveland Hopkins">
 			<Number>4742</Number>
 			<Street>Brecksville Rd</Street>
 			<City>Bricksfield</City>
@@ -59,7 +59,7 @@
 	<Hotel>
 		<Name>Yellowstone Lodge</Name>
 		<Phone>(406) 646-0020</Phone>
-		<Address NearstAirport ="Phoenix Sky Harbor">
+		<Address NearstAirport ="Bozeman Yellowstone">
 			<Number>251</Number>
 			<Street>S Electric St</Street>
 			<City>West Yellowstone</City>
@@ -70,7 +70,7 @@
 	<Hotel Rating ="4.3">
 		<Name>The Lodge at Mammoth Cave</Name>
 		<Phone>(270) 451-2283</Phone>
-		<Address NearstAirport ="Phoenix Sky Harbor">
+		<Address NearstAirport ="Louisville Muhammad Ali">
 			<Number>171</Number>
 			<Street>Hotel Road</Street>
 			<City>Mammoth Cave</City>
@@ -81,7 +81,7 @@
 	<Hotel Rating ="4.2">
 		<Name>Mimslyn Inn</Name>
 		<Phone>(540) 743-5105</Phone>
-		<Address NearstAirport ="Phoenix Sky Harbor">
+		<Address NearstAirport ="Norfolk">
 			<Number>401</Number>
 			<Street>W Main St</Street>
 			<City>Luray</City>
@@ -93,7 +93,7 @@
 		<Name>Sunrise Resort and Motel</Name>
 		<Phone>(360) 877-5301</Phone>
 		<Phone>(999) 999-9999</Phone>
-		<Address NearstAirport ="Phoenix Sky Harbor">
+		<Address NearstAirport ="Seattle-Tacoma">
 			<Number>24520</Number>
 			<Street>US-101</Street>
 			<City>Hoodsport</City>
@@ -104,7 +104,7 @@
 	<Hotel>
 		<Name>Denali Overlook Inn</Name>
 		<Phone>(907) 733-3555</Phone>
-		<Address NearstAirport ="Phoenix Sky Harbor">
+		<Address NearstAirport ="Ted Stevens Anchorage">
 			<Number>29198</Number>
 			<Street>Talkeetna Spur Rd</Street>
 			<City>Talkeetna</City>
