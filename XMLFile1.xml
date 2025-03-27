@@ -99,7 +99,8 @@
 	</Hotel>
 	<Hotel>
 		<Name>Sunrise Resort and Motel</Name>
-		<Phone> (360) 877-5301</Phone>
+		<Phone>(360) 877-5301</Phone>
+		<Phone>(999) 999-9999</Phone>
 		<Address>
 			<Number>24520</Number>
 			<Street>US-101</Street>
